@@ -1,6 +1,6 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/leo-mejia/leo-mejia/blob/b3b4315891ab1cff3101624f8a660f2310bc5c04/Images/header_.jpeg" class="header-image" / style={height:3000px}>
+<img src="https://github.com/leo-mejia/leo-mejia/blob/8079773b9e28bea6358e6e727a938ea3d2b2d70f/Images/header_.png">
 
 <p align="center">
