@@ -8,6 +8,7 @@
 
 <h3 align="center">Languages and Tools:</h3><br>
 <p align="left" >
+ <img src="https://github.com/leo-mejia/leo-mejia/blob/a3d0fde520c3c52f2fabf2a6d5fc8e472823e83f/Images/github.svg" alt="github" width="40" height="40" />
  <img src="https://github.com/leo-mejia/leo-mejia/blob/f4b47fc0e16ad3e74dbb00161a9ab88fd0b0b9b7/Images/bash_dark.svg" alt="bash" width="40" height="40" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
