@@ -1,7 +1,7 @@
 <svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
-      fill: #e9e9eb;
+      fill: #eeeeee;
     }
     a {
       fill: #0079ff;
@@ -270,7 +270,7 @@
   </g>
 
   <!-- From Colombia... -->
-  <g transform="translate(10, 48)" class="msg-2">
+  <g transform="translate(10, 48)" class="msg-2 bubble">
     <rect width="418" height="66.1302" rx="18.0355" />
     <text x="15" y="27">I live in Colombia – it’s supposed to be 79° F</text>
     <text x="15" y="50">(28° C) and ☀️ here today.</text>
@@ -295,7 +295,7 @@
   oo
 
   <!-- Software Developer... -->
-  <g transform="translate(10, 120)" class="msg-3">
+  <g transform="translate(10, 120)" class="msg-3 bubble">
     <rect width="530" height="66.1302" rx="18.0355" />
     <text x="15" y="27">I’m a software developer who enjoys</text>
     <text x="15" y="50">
@@ -321,7 +321,7 @@
   </g>
 
   <!-- My Github -->
-  <g transform="translate(10, 192)" class="msg-4">
+  <g transform="translate(10, 192)" class="msg-4 bubble">
     <rect width="480" height="70" rx="18.0355" />
     <text x="15" y="27">My Github serves as my digital portfolio where I share </text>
     <text x="15" y="50">my projects, experiments, and ongoing learning journey.</text>
@@ -345,7 +345,7 @@
   </g>
 
   <!-- Projects Interesting -->
-  <g transform="translate(10, 270)" class="msg-5">
+  <g transform="translate(10, 270)" class="msg-5 bubble">
     <rect width="440" height="81" rx="18.0355" />
     <text x="15" y="27">I thrive on exploring different technology</text>
     <text x="15" y="50">stacks and am always open to collaborating on</text>
@@ -353,7 +353,7 @@
   </g>
 
   <!-- typing 6 -->
-  <g transform="translate(10, 360)" class="typing-6">
+  <g transform="translate(10, 360)" class="typing-6 bubble">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
     <circle cx="13.591" cy="33.091" r="7.68185" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" />
@@ -370,7 +370,7 @@
   </g>
 
   <!-- Collaboration... -->
-  <g transform="translate(10, 360)" class="msg-6">
+  <g transform="translate(10, 360)" class="msg-6 bubble">
     <rect width="480" height="129" rx="18.0355" />
     <text x="15" y="27">If you have an exciting idea 💡 or want to contribute to</text>
     <text x="15" y="50">any of my projects, feel free to reach out.</text>
