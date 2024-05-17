@@ -1,10 +1,7 @@
-<p align="center">
+
  
 </p align="center">
-<img src="https://github.com/leo-mejia/leo-mejia/blob/8079773b9e28bea6358e6e727a938ea3d2b2d70f/Images/header_.png">
-
-<p align="center">
-
+![Chat icon](https://raw.githubusercontent.com/leo-mejia/leo-mejia/main/Images/chat.svg)
 
 <h3 align="center">Languages and Tools:</h3><br>
 <p align="left" >
